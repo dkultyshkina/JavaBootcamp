@@ -1,0 +1,2 @@
+Main-Class: java_.printer.app.Program
+Class-Path: lib/jcommander-1.82.jar lib/JCDP-4.0.2.jar

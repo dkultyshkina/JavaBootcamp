@@ -1,0 +1,2 @@
+1 https://download.oracle.com/java/22/latest/jdk-22_linux-aarch64_bin.tar.gz
+2 https://docs.oracle.com/javase/specs/jls/se8/jls8.pdf
